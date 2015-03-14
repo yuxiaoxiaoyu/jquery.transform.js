@@ -9,6 +9,9 @@
   "license":"Dual licensed under GPL and MIT licenses.",
   "ignore":[
   ],
+"dependencies":{
+    "jquery":"~1.8.2"
+  },
   "dependencies":{
     "jquery":"~1.7.2"
   },
